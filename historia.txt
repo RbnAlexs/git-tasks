@@ -1,6 +1,3 @@
-Hola mundo,
-Hello World!
+Estaya jao
 
-En camara parece alto
-
-Mañana nos enfocaremos en su vida laboral
+Este es un cambio con un checkout y commit actualizado
